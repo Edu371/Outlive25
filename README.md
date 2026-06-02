@@ -28,7 +28,7 @@ Mais Informação em [WIKI][1]
 
 4. Fair Use e Legislação (Uso Aceitável)
 
-    A análise realizada está em conformidade com o direito de estudo, interoperabilidade e desenvolvimento de software independente, conforme respaldado por legislações brasileiras (exceções de interoperabilidade da Lei de Software nº 9.609/1998 no Brasil) e internacionais de direitos autorais (como as provisões de Fair Use nos EUA). Este projeto não visa copiar ou competir com o produto original, mas sim fomentar a comunidade e a longevidade do título.
+    A análise realizada está em conformidade com o direito de estudo, interoperabilidade e desenvolvimento de software independente, conforme respaldado por legislações brasileiras (exceções de interoperabilidade da Lei de Software nº 9.609/1998 no Brasil) e internacionais de direitos autorais (como as provisões de Fair Use nos EUA). Este projeto não visa copiar, piratear, prejudicar ou competir com o produto original, mas sim fomentar a comunidade e a longevidade do título.
 
 5. Isenção de Garantias e Danos
 
